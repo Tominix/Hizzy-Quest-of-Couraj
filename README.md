@@ -1,5 +1,8 @@
+# ENIB
+
+# Cahier des charges
+
 # Hizzy Quest of Couraj
-Jeux créé dans le cadre du Projet de S2 à l'ENIB
 
 | Type          | Cahier des charges             |
 | ------------: | :----------------------------- |
@@ -8,3 +11,14 @@ Jeux créé dans le cadre du Projet de S2 à l'ENIB
 | Auteur        | Henri BRAULT & Thomas RINNERT  |
 | Version       | 0.1                            |
 | Date          | 2015                           |
+
+TODO list :
+ - [ ] Faire le cahier des charges (cf cours + exemple)
+ - [ ] Histoire
+ - [ ] Documentation
+ - [ ] Fonctionnalité
+ - [ ] Graphismes
+ - [ ] 
+ - [ ] 
+ 
+Barrière d'abstraction : division en module, externalisation XML
