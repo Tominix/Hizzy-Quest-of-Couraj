@@ -36,3 +36,5 @@ TODO list :
  - [ ] 
  
 Barrière d'abstraction : division en module, externalisation XML
+
+Item : map / boussole
