@@ -13,11 +13,25 @@
 | Date          | 2015                           |
 
 TODO list :
- - [x] Faire le cahier des charges (cf cours + exemple)
+ - [ ] Faire le cahier des charges (cf cours + exemple)
+ - [ ] 
  - [ ] Histoire
  - [ ] Documentation
- - [ ] Fonctionnalité
+ - [ ] Son
  - [ ] Graphismes
+ - [ ] Magie
+ - [ ] Armes
+ - [ ] Deplacement
+ - [ ] Affichage
+ - [ ] Gestion des dégats
+ - [ ] Entities
+ - [ ] Generation du Donjon (aléatoire ?)
+ - [ ] Actions
+ - [ ] Interface (inventaire, menu, map...)
+ - [ ] Ecran de GAME OVER #trolling ?
+ - [ ] 
+ - [ ] 
+ - [ ] 
  - [ ] 
  - [ ] 
  
