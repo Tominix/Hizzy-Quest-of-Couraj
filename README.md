@@ -13,7 +13,7 @@
 | Date          | 2015                           |
 
 TODO list :
- - [ ] Faire le cahier des charges (cf cours + exemple)
+ - [x] Faire le cahier des charges (cf cours + exemple)
  - [ ] Histoire
  - [ ] Documentation
  - [ ] Fonctionnalité
